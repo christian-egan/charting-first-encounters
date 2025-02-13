@@ -1,4 +1,4 @@
-# jekyll-project-template
+# charting-first-encounters
 
 Write a tagline here!
 
