@@ -4,6 +4,24 @@ title: Home
 show-title: false
 ---
 
+# Charting First Encounterss
+
+*Mapping George Vancouver's travels through Puget Sound.*
+
+[Now what you see is what you get!](http://bc.edu)
+
+![Terror! Terror!](https://www.bc.edu/content/bc-web/schools/morrissey/departments/history/people/ma-students/christian-egan/_jcr_content/profileImage.img.png)
+
+1. Snap!
+2. Crackle!
+3. Pop!
+
+- Bing
+- Bang
+- Boom
+- Pow
+---
+
 This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
 
 1. The project & general background
