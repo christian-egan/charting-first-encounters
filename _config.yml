@@ -1,13 +1,13 @@
 # change the followings to match your Github username and repo name
-baseurl: "/jekyll-project-template" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
+baseurl: "/charting-first-encounters" # the name of your github repo
+url: "https://christian-egan.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
+title: "Charting First Encounters"
 description: Your Project Description @ Boston College
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # nav bar settings and links
 nav-menu:
