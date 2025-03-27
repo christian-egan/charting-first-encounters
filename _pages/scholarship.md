@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Previous Scholarship
-permalink: scholarship
+title: Maps and Project Background
+permalink: background
 show-title: true
 ---
 
