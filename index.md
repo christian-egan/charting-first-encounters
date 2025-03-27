@@ -16,3 +16,6 @@ Surely, the land that the crew bore witness to was ideal for British settlement.
 <p align="center">
     <img src="https://i0.wp.com/www.postalley.org/wp-content/uploads/2023/05/IMG_0667-1.jpg?w=500&ssl=1" />
 </p>
+
+### Note on Accuracy
+The points marked on this map are estimations based on the descriptions articulated by George Vancouver in his 1792 logbook, published posthumously in 1801. In the absence of specific coordinates, a degree of assumption is necessary. This project makes no claim that each point is the precise locale of who and what Vancouver witnessed, but does make every effort to map points as accurately as possible via close reading and informed geospatial analysis. Further research will help refine these estimations so as to best chart Vancouver's encounters with Indigenous peoples 230 years later.
