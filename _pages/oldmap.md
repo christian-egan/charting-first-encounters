@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sources & Methods
-permalink: methods
+title: The Original Map
+permalink: oldmap
 show-title: true
 ---
