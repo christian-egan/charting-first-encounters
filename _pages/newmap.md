@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sources & Methods
-permalink: methods
+title: The Analytical Map
+permalink: newmap
 show-title: true
 ---
