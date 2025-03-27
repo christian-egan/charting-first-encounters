@@ -17,10 +17,10 @@ nav-menu:
     submenu:
       - title: Maps and Project Background
         link: background
-      - title: New Map
-        link: newmap
       - title: Original Map
         link: oldmap
+      - title: New Map
+        link: newmap
   - title: Methodology
     link: methodology
   - title: Analysis
