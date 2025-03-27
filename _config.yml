@@ -16,7 +16,7 @@ nav-menu:
   - title: Background
     submenu:
       - title: Maps and Project Background
-        link: scholarship
+        link: background
       - title: New Map
         link: newmap
       - title: Original Map
