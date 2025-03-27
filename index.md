@@ -4,9 +4,9 @@ title: Home
 show-title: false
 ---
 
-# Charting First Encounterss
+# Charting First Encounters
 
-*Mapping George Vancouver's travels through Puget Sound.*
+### *Mapping George Vancouver's travels through Puget Sound.*
 
 On the morning of April 30th, 1792, the men of HMS Discovery awoke and took their stations, the wood of the deck still damp from the stormy weather of the previous night. The sky was bright and clear. The winds, favorable. With the Nootka Crisis settled—and war with Spain averted—a year prior, the men had been mustered to survey the American Northwest Coast and to advance British claims and influence in the region. Their commanding officer, Captain George Vancouver, ordered the anchor raised, and they sailed further into the Strait of Juan de Fuca. As the ship glided across the water, passing high, sandy cliffs, towering pines, and the ancient faces of snow-capped mountains, Vancouver wrote of “the beautiful scenery that was now presented:” 
 > the surface of the sea was perfectly smooth, and the country before us exhibited every thing that bounteous nature could be expected to draw into one point of view. As we had no reason to imagine that this country had ever been indebted for any of its decorations to the hand of man, I could not possibly believe that any uncultivated country had ever been discovered exhibiting so rich a picture.
