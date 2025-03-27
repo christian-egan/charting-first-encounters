@@ -8,45 +8,11 @@ show-title: false
 
 *Mapping George Vancouver's travels through Puget Sound.*
 
-[Now what you see is what you get!](http://bc.edu)
+On the morning of April 30th, 1792, the men of HMS Discovery awoke and took their stations, the wood of the deck still damp from the stormy weather of the previous night. The sky was bright and clear. The winds, favorable. With the Nootka Crisis settled—and war with Spain averted—a year prior, the men had been mustered to survey the American Northwest Coast and to advance British claims and influence in the region. Their commanding officer, Captain George Vancouver, ordered the anchor raised, and they sailed further into the Strait of Juan de Fuca. As the ship glided across the water, passing high, sandy cliffs, towering pines, and the ancient faces of snow-capped mountains, Vancouver wrote of “the beautiful scenery that was now presented:” 
+> the surface of the sea was perfectly smooth, and the country before us exhibited every thing that bounteous nature could be expected to draw into one point of view. As we had no reason to imagine that this country had ever been indebted for any of its decorations to the hand of man, I could not possibly believe that any uncultivated country had ever been discovered exhibiting so rich a picture.
 
-![Terror! Terror!](https://www.bc.edu/content/bc-web/schools/morrissey/departments/history/people/ma-students/christian-egan/_jcr_content/profileImage.img.png)
-
-1. Snap!
-2. Crackle!
-3. Pop!
-
-- Bing
-- Bang
-- Boom
-- Pow
----
-
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
-
-1. The project & general background
-2. Who you are
-
----
-
-Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Help on using Markdown!
-
----
-
-Below are a couple of ways you might include images in your site. The simplest is to use Markdown's image method. Use a !, then put the alt text you want inside of square brackets, and the link inside of parentheses.
-![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)
-
----
-
-If you want to layout two images side by side, you can use Markdown's tables to organize them into a table of two or more columns... you can add rows for captions if you want.
-
-| ![BCDS Logo](assets/img/bcds-logo.webp) | ![BCDS Logo](assets/img/bcds-logo.webp) |
-| Caption 1 | Caption 2 |
-
----
-
-If you want a single image, center aligned... you have to use raw HTML... use this as a guide, and replace the filename with yours
+Surely, the land that the crew bore witness to was ideal for British settlement. Vancouver envisioned fortresses, new harbors, and trading posts up and down the Northwest coast—it was there for the Crown’s taking. But what of the people who had long known the waters of Puget Sound? Those who had seen its beauty long before the voyage of the Discovery? Those for whom ‘home’ was not so far away?
 
 <p align="center">
-    <img src="assets/img/bcds-logo.webp" />
+    <img src="https://i0.wp.com/www.postalley.org/wp-content/uploads/2023/05/IMG_0667-1.jpg?w=500&ssl=1" />
 </p>
