@@ -36,7 +36,7 @@ nav-menu:
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
-footer-message: This project acknowledges the continued presence of the Indigenous peoples of Puget Sound, whose ancestral lands were mapped in the creation of this project: the Hulʼqumiʼnum Treaty Group, the Confederated Tribes of the Umatilla Indian Reservation, the S'Klallam Tribes, the Chimacum people, the Suquamish Tribe, the Tulalip Tribes, the Twana and Skokomish peoples, and others.
+footer-message: "This project acknowledges the continued presence of the Indigenous peoples of Puget Sound, whose ancestral lands were mapped in the creation of this project: the Hulʼqumiʼnum Treaty Group, the Confederated Tribes of the Umatilla Indian Reservation, the S'Klallam Tribes, the Chimacum people, the Suquamish Tribe, the Tulalip Tribes, the Twana and Skokomish peoples, and others."
 footer-submessage:  By Christian Egan, with the Digital Scholarship Group, Boston College | CC BY-NC License
 footer-submessage-link: https://ds.bc.edu
 
