@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bibliography
-permalink: bibliography
+title: Conclusions
+permalink: conclusions
 show-title: true
 ---
 
