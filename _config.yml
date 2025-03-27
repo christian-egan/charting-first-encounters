@@ -12,7 +12,7 @@ theme-color: green # indigo|yellow|pink|green|stone|
 # nav bar settings and links
 nav-menu:
   - title: Home
-    link: intro
+    link: home
   - title: Background
     submenu:
       - title: Maps and Project Background
