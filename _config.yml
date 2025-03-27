@@ -4,25 +4,31 @@ url: "https://christian-egan.github.io" # the url of your github pages (change B
 
 # site information used in page title, meta data etc.
 title: "Charting First Encounters"
-description: Your Project Description @ Boston College
+description: Mapping George Vancouver's Encounters with Puget Sound's Native Peoples
 
 # color theme for links
-theme-color: stone # indigo|yellow|pink|green|stone|
+theme-color: green # indigo|yellow|pink|green|stone|
 
 # nav bar settings and links
 nav-menu:
   - title: Home
-    link: index
+    link: intro
   - title: Background
     submenu:
-      - title: Previous Scholarship
+      - title: Maps and Project Background
         link: scholarship
-      - title: Source & Methods
-        link: methods
-  - title: Findings
-    link: findings
-  - title: Reflections
-    link: reflections
+      - title: New Map
+        link: newmap
+      - title: Original Map
+        link: oldmap
+  - title: Methodology
+    link: methodology
+  - title: Analysis
+    submenu:
+    - title: Conclusions
+      link: conclusions
+    - title: Pedagogy
+      link: pedagogy
   - title: Bibliography
     link: bibliography
 
@@ -31,7 +37,7 @@ search-bar: false
 
 hide-footer: false # set to true to hide the footer
 footer-message: Put Your Footer Message Here | CC BY-NC License
-footer-submessage:  By Your Name, with the Digital Scholarship Group, Boston College
+footer-submessage:  By Christian Egan, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
