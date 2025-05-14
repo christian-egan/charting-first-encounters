@@ -32,7 +32,7 @@ nav-menu:
   - title: Bibliography
     link: bibliography
   - title: About
-    link: about
+    link: https://www.bc.edu/bc-web/schools/morrissey/departments/history/people/ma-students/christian-egan.html
 
 # sets whether a search bar appears on the site header
 search-bar: false
