@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maps and Project Background
+title: Project Background
 permalink: background
 show-title: true
 ---
@@ -16,9 +16,6 @@ Directing this growth were three pillars:
 
 The process towards and realizations of these items are discussed further in the [Methodology](https://christian-egan.github.io/charting-first-encounters/methodology) and [Conclusions](https://christian-egan.github.io/charting-first-encounters/conclusions) sections. But, in terms of planning what was to come, Dr. Antonio LoPiano and I brainstormed the trajectory of the project together on a whiteboard, seen below.
 
-<p align="center">
-  
 ![whiteboarding](https://github.com/user-attachments/assets/f1b9aeea-fe2e-48ea-ab05-1e4d7d697090)
-</p>
 
 We hoped to use the same data points from my original project - the twenty-three sites described in Vancouver's log - to create several map visualizations that used the geography of the region to explore the lived realities of Puget Sound's natives. Different layers would use different tools and data, such as topographical data, proximity to regions of natural resource availability, or the easiest paths between two points. With clear goals and a vision set, we began work.
