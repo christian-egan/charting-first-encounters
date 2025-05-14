@@ -15,7 +15,7 @@ nav-menu:
     link: index
   - title: Background
     submenu:
-      - title: Maps and Project Background
+      - title: Project Background
         link: background
       - title: Original Map
         link: oldmap
@@ -31,6 +31,8 @@ nav-menu:
       link: pedagogy
   - title: Bibliography
     link: bibliography
+  - title: About
+    link: about
 
 # sets whether a search bar appears on the site header
 search-bar: false
