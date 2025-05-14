@@ -17,6 +17,7 @@ Directing this growth were three pillars:
 The process towards and realizations of these items are discussed further in the [Methodology](https://christian-egan.github.io/charting-first-encounters/methodology) and [Conclusions](https://christian-egan.github.io/charting-first-encounters/conclusions) sections. But, in terms of planning what was to come, Dr. Antonio LoPiano and I brainstormed the trajectory of the project together on a whiteboard, seen below.
 
 <p align="center">
+  
 ![whiteboarding](https://github.com/user-attachments/assets/f1b9aeea-fe2e-48ea-ab05-1e4d7d697090)
 </p>
 
